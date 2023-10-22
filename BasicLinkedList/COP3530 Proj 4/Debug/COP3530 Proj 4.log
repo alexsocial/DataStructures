@@ -1,0 +1,6 @@
+﻿  sentence.cpp
+  sentence_driver.cpp
+  Generating Code...
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 4 Linked List\COP3530 Proj 4\COP3530 Proj 4\sentence.h(37): warning C4172: returning address of local variable or temporary: k
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 4 Linked List\COP3530 Proj 4\COP3530 Proj 4\sentence.h(37): warning C4172: returning address of local variable or temporary: k
+  COP3530 Proj 4.vcxproj -> C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 4 Linked List\COP3530 Proj 4\Debug\COP3530 Proj 4.exe

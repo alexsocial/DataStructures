@@ -1,0 +1,9 @@
+﻿  string_class.cpp
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 3\COP3530Proj3\COP3530Proj3\string_class.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 3\COP3530Proj3\COP3530Proj3\string_class.cpp(70,40): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 3\COP3530Proj3\COP3530Proj3\string_class.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 3\COP3530Proj3\COP3530Proj3\string_class.cpp(80,11): warning C4018: '>=': signed/unsigned mismatch
+  stringclass_driver.cpp
+  Generating Code...
+C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 3\COP3530Proj3\COP3530Proj3\string_class.cpp(54): warning C4715: 'string_class::palindrome': not all control paths return a value
+  COP3530Proj3.vcxproj -> C:\Users\alex4\Documents\FAU\S2021 (Sem. 4)\Data Structures\COP3530 Proj 3\COP3530Proj3\Debug\COP3530Proj3.exe
